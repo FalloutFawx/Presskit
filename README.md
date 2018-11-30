@@ -1,2 +1,2 @@
-# Presskit
-Primitive game presskit web page generator.
+# Epsum
+Presskit for my game
